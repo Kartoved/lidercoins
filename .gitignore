@@ -1,0 +1,14 @@
+test.py
+.mypy_cache/
+.vscode/
+dist/
+venv/
+__pycache__/
+lidercoins.db
+beginners.db
+lidercoinsold.db
+students_logs/
+students_list.json
+.todo
+test.py
+beginners.json
